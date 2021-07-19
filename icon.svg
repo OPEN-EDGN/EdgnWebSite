@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256.0px"
+   height="256.0px"
+   viewBox="0 0 256.0 256.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-13.258252"
+     inkscape:cy="135.05739"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="43"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid20" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9">
+    <rect
+       x="80"
+       y="160"
+       width="115"
+       height="55"
+       id="rect38391" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="图层 2">
+    <g
+       id="g86758"
+       clip-path="none">
+      <g
+         inkscape:label="Clip"
+         id="g86756">
+        <rect
+           style="fill:#ff5555;paint-order:normal;stroke:none;stroke-opacity:1;stroke-linecap:round;stroke-width:1;stroke-miterlimit:5.2;stroke-dasharray:none"
+           id="rect33647"
+           width="215"
+           height="215"
+           x="20"
+           y="20" />
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g86756"
+       id="use86762"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:102.047px;font-family:'Noto Serif CJK SC';-inkscape-font-specification:'Noto Serif CJK SC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="58.877087"
+       y="117.63969"
+       id="text5151"><tspan
+         sodipodi:role="line"
+         id="tspan5149"
+         x="58.877087"
+         y="117.63969"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;font-family:'Noto Serif CJK SC';-inkscape-font-specification:'Noto Serif CJK SC Semi-Bold';fill:#ffffff"
+         dx="0"
+         dy="0"
+         rotate="0 0 0 0 0">OPEN</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text38389"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect38391)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="48.755753"
+       y="188.83517"
+       id="text40113"><tspan
+         sodipodi:role="line"
+         id="tspan40111"
+         x="48.755753"
+         y="188.83517"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:53.3333px;font-family:'Noto Serif CJK TC';-inkscape-font-specification:'Noto Serif CJK TC Heavy';baseline-shift:baseline;fill:#800000"
+         dy="0"
+         rotate="0 0 0 0 0"
+         dx="0">EDGN</tspan></text>
+  </g>
+</svg>
